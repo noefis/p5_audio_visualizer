@@ -8,7 +8,7 @@ let pow = 12;
 
 
 function preload() {
-  song = loadSound('music.m4a');
+  song = loadSound('../music.m4a');
 }
 
 function setup() {
